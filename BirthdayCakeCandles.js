@@ -1,5 +1,6 @@
 function birthdayCakeCandles(candles) {
-
-    var numArr= candles.filter(num => Math.max(...candles)===num);
+    
+    let max = Math.max(...candles);
+    let numArr= candles.filter(num => max===num);
     return numArr.length;
 }
