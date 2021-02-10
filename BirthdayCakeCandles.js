@@ -5,7 +5,7 @@ function birthdayCakeCandles(candles) {
     let num =  numArr.length;
     console.log(num);
 }
-birthdayCakeCandles([1,2,3,3]);
+birthdayCakeCandles([1,2,3,3]); //
 
 // let numArr = candles.filter(num => Math.max(...candles)===num);
 // return numArr.length;

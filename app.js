@@ -6,5 +6,5 @@ function birthdayCakeCandles(candles) {
     
 
 }
-birthdayCakeCandles([1,2,3,3]);
+birthdayCakeCandles([1,2,3,3]); //
 
