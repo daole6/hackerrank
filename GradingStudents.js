@@ -4,6 +4,6 @@ function gradingStudents(grades) {
        if(round < 3 && n >= 38){
            n += round;      
        } 
-       return n;
+       return n; 
     });
 }   
